@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ariel_Miranda_PR1/Ariel_Miranda_PR1.vcxproj" />
+</Solution>
